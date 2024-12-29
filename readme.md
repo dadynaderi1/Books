@@ -2,6 +2,7 @@
 
 If you need any specific book, just create an issue <3
 
+### Table of contents
 <!--toc:start-->
 - [Algorithms](#algorithms)
 - [Computer Science](#computer-science)
