@@ -48,6 +48,10 @@ If you need any specific book, just create an issue <3
 
   - [Web Design Playground - HTML and CSS the Interactive Way - Paul McFedries](./Html/Web_Design_Playground_HTML_and_CSS_the_Interactive_way.pdf)
 
+- #### Java
+
+  - [Developing Graphics Frameworks with Java and OpenGL - Lee Stemkoski, James Cona](./Java/Developing_Graphics_Frameworks_with_Java_and_OpenGL_Lee_Stemkoski.pdf)
+
 - #### Rust
 
   - [Programming Rust Fast, Safe Systems Development](./Rust/ProgrammingRustFastSafeSystemsDevelopment.pdf)
