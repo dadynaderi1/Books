@@ -62,8 +62,8 @@ If you need any specific book, just create an issue <3
   - [The Embedded Rust Book](./Rust/TheEmbeddedRustBook.pdf)
   - [Writing Interpreters in Rust](./Rust/WritingInterpretersinRust.pdf)
   
-- #### Security
+## Security
 
-  - [The Basics Of Hacking And Penetration Testing Ethical Hacking And Penetration Testing Made Easy](./Security/TheBasicsOfHackingAndPenetrationTestingEthicalHackingAndPenetrationTestingMadeEasy.pdf)
-  - [Jon Erickson - Hacking Art of Exploitation](./Security/JonErickson-HackingArtofExploitation.pdf)
-  - [Hash Crack-Password Cracking Manual (v2.0)](./Security/HashCrack–PasswordCrackingManualV2.pdf)
+- [The Basics Of Hacking And Penetration Testing Ethical Hacking And Penetration Testing Made Easy](./Security/TheBasicsOfHackingAndPenetrationTestingEthicalHackingAndPenetrationTestingMadeEasy.pdf)
+- [Jon Erickson - Hacking Art of Exploitation](./Security/JonErickson-HackingArtofExploitation.pdf)
+- [Hash Crack-Password Cracking Manual (v2.0)](./Security/HashCrack–PasswordCrackingManualV2.pdf)
