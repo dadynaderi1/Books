@@ -37,12 +37,16 @@ If you need any specific book, just create an issue <3
 - [The Linux Command Line](./Os/The.Linux.Command.Line.pdf)
 - [Operating Systems From 0 to 1](./Os/Operating_Systems_From_0_to_1.pdf)
 
-## Programming Languages
+## Programming and Markup Languages
 
 - #### C
 
   - [Let Us C - Yashwant Kanetkar 5th EDITION](./C/Let-Us-C-Yashwant-Kanetkar-5th-EDITION.pdf)
   - [C Notes For Professionals](./C/CNotesForProfessionals.pdf)
+
+- #### Html
+
+  - [Web Design Playground - HTML and CSS the Interactive Way - Paul McFedries](./Html/Web_Design_Playground_HTML_and_CSS_the_Interactive_way.pdf)
 
 - #### Rust
 
